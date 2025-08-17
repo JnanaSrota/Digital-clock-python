@@ -1,6 +1,6 @@
 # 🕒 Python Digital Clock  
 
-[🚀 Live Demo (Web Version)](https://jnanasrota.github.io/digital-clock/)  
+[ Live Demo (Web Version)](https://jnanasrota.github.io/digital-clock/)  
 
 A simple digital clock built with **Python (Tkinter)** and a **Web version in JavaScript**.  
 Displays the current time in **HH:MM:SS** format and updates every second.  
@@ -15,7 +15,6 @@ Displays the current time in **HH:MM:SS** format and updates every second.
 
 ---
 
-## 🚀 Getting Started  
 
 ### Clone the repository  
 ```bash
