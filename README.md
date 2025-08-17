@@ -9,7 +9,7 @@ Displays the current time in **HH:MM:SS** format and updates every second.
 
 ## ✨ Features  
 - Real-time clock display.  
-- 12-hour or 24-hour format (if enabled).  
+- 24-hour format(for now).  
 - Python GUI (Tkinter).  
 - Web version (HTML/JS) for live demo.  
 
